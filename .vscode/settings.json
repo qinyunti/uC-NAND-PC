@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fs_dev_nand_cfg.h": "c",
+        "fs_dev_nand.h": "c",
+        "ecc_hamming.h": "c",
+        "random": "c"
+    }
+}

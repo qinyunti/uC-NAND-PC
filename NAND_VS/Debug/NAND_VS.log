@@ -1,0 +1,2 @@
+﻿d:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(5652,5): warning MSB3061: 无法删除文件“C:\Users\qinyunti\OneDrive\work\公众号文章\uC-FS\NAND\uC-NAND-PC\NAND_VS\Debug\NAND_VS.exe”。对路径“C:\Users\qinyunti\OneDrive\work\公众号文章\uC-FS\NAND\uC-NAND-PC\NAND_VS\Debug\NAND_VS.exe”的访问被拒绝。
+d:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 对路径“c:\users\qinyunti\onedrive\work\公众号文章\uc-fs\nand\uc-nand-pc\nand_vs\debug\nand_vs.exe”的访问被拒绝。
