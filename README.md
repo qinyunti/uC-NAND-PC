@@ -3,6 +3,7 @@
 将uC-FS的NAND驱动移植到PC上仿真,并进行修改,改为不依赖于其他模块可独立使用的库。
 
 详细原理介绍可以关注公众号
+![766ad473b1e8d3e19acb90df0243c0e](https://user-images.githubusercontent.com/31797371/236448810-22105246-8b0f-45e0-9075-9a104ab28140.jpg)
 
 
 # Linux下使用
